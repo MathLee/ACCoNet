@@ -34,7 +34,7 @@ data_aug.m is used for data augmentation.
 
 ORSSD: [ACCoNet_VGG](https://pan.baidu.com/s/1mPb7oyaz9OVKs3T9v4xCmw) (code: 1bsg); [ACCoNet_ResNet](https://pan.baidu.com/s/1UhHLxgBvMgD66jz2SKgclw) (code: mv91).
 
-EORSSD: [ACCoNet_VGG](链接: https://pan.baidu.com/s/1R2mFox8rEyxH1DTTnMinLA) (code: i016); [ACCoNet_ResNet](https://pan.baidu.com/s/1-TkZcxR6fBNYWKljhL1Qrg) (code: ak5m).
+EORSSD: [ACCoNet_VGG](https://pan.baidu.com/s/1R2mFox8rEyxH1DTTnMinLA) (code: i016); [ACCoNet_ResNet](https://pan.baidu.com/s/1-TkZcxR6fBNYWKljhL1Qrg) (code: ak5m).
 
 ORSI-4199: [ACCoNet_VGG](https://pan.baidu.com/s/1WUVmVCwICBEM3gUJxQ5pkw) (code: qv05); [ACCoNet_ResNet](https://pan.baidu.com/s/1I4RWaLDx4ukK8_11y1AEtw) (code: art7).
 
