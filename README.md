@@ -1,5 +1,5 @@
 # ACCoNet
-This project provides the code and results for 'Adjacent Context Coordination Network for Salient Object Detection in Optical Remote Sensing Images', IEEE TCYB, accepted, 2022.
+This project provides the code and results for 'Adjacent Context Coordination Network for Salient Object Detection in Optical Remote Sensing Images', IEEE TCYB, accepted, 2022. [arxiv link](https://arxiv.org/abs/2203.13664)
 
 # Network Architecture
    <div align=center>
