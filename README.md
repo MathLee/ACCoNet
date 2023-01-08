@@ -22,7 +22,7 @@ This project provides the code and results for 'Adjacent Context Coordination Ne
 
 We provide the code for ACCoNet_VGG and ACCoNet_ResNet, please modify '--is_ResNet' and the pathes of datasets in train_ACCoNet.py.
 
-For ACCoNet_VGG, please modify pathes of [VGG backbone](https://pan.baidu.com/s/1YQxKZ-y2C4EsqrgKNI7qrw) (code: ego5) in /model/vgg.py.
+For ACCoNet_VGG, please modify paths of [VGG backbone](https://pan.baidu.com/s/1YQxKZ-y2C4EsqrgKNI7qrw) (code: ego5) in /model/vgg.py.
 
 data_aug.m is used for data augmentation.
 
@@ -48,12 +48,15 @@ ORSI-4199: [ACCoNet_VGG](https://pan.baidu.com/s/1WUVmVCwICBEM3gUJxQ5pkw) (code:
 # [ORSI-SOD_Summary](https://github.com/MathLee/ORSI-SOD_Summary)
    
 # Citation
-        @ARTICLE{Li_2022_ACCoNet,
+        @ARTICLE{Li_2023_ACCoNet,
                 author = {Gongyang Li and Zhi Liu and Dan Zeng and Weisi Lin and Haibin Ling},
                 title = {Adjacent Context Coordination Network for Salient Object Detection in Optical Remote Sensing Images},
                 journal = {IEEE Transactions on Cybernetics},
-                year = {2022},
-                doi = {10.1109/TCYB.2022.3162945},
+                volume={53},
+                number={1},
+                pages={526-538},
+                year={2023},
+                month={Jan.},
                 }
                 
                 
