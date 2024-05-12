@@ -52,11 +52,11 @@ ORSI-4199: [ACCoNet_VGG](https://pan.baidu.com/s/1WUVmVCwICBEM3gUJxQ5pkw) (code:
                 author = {Gongyang Li and Zhi Liu and Dan Zeng and Weisi Lin and Haibin Ling},
                 title = {Adjacent Context Coordination Network for Salient Object Detection in Optical Remote Sensing Images},
                 journal = {IEEE Transactions on Cybernetics},
-                volume={53},
-                number={1},
-                pages={526-538},
-                year={2023},
-                month={Jan.},
+                volume = {53},
+                number = {1},
+                pages = {526-538},
+                year = {2023},
+                month = {Jan.},
                 }
                 
                 
